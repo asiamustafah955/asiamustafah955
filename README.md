@@ -1,7 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on building a system for students, enhancing their academic and social experience at the University of British Columbia.
+My name is Asia Mustafah, and I am a Computer Science Major at the University of British Columbia interested in all things Software engineering and Data science!
+- 🔭 I recently worked on patient-Doctor symptoms tracker inspired by the recent tragic outbreak of COVID-19 and I am still enhancing it to include other pandemic diseases.(https://github.com/asiamustafah955/Covitrack)
 - 🌱 I’m currently learning advanced software development techniques, focusing on cybersecurity and data science to deepen my technical skills.
-- 👯 I’m looking to collaborate on open-source projects related to healthcare applications, educational tools, and innovative data analysis projects.
+- 👯 I’m looking to collaborate on open-source projects related to healthcare and commercial applications, educational tools, and innovative data analysis projects. - Send me ideas to mustafahasia955@gmail.com
 <!--
 **asiamustafah955/asiamustafah955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
